@@ -1,0 +1,28 @@
+name: 30days
+favicon: null
+layout_spectrum: 0.3216618977021426
+typography_spectrum: 0.6064862108323723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8477133219130337
+  lightness: 0.2343786098062992
+  saturation: 0.014469263842329383
+  rhythmicContrast: 0.8744221015367657
+purpose: []
